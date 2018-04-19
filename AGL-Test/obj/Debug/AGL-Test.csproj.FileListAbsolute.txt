@@ -1,0 +1,7 @@
+C:\Users\chabdjianr\Desktop\AGL\AGL-Test\AGL-Test\bin\Debug\AGL-Test.exe.config
+C:\Users\chabdjianr\Desktop\AGL\AGL-Test\AGL-Test\bin\Debug\AGL-Test.exe
+C:\Users\chabdjianr\Desktop\AGL\AGL-Test\AGL-Test\bin\Debug\AGL-Test.pdb
+C:\Users\chabdjianr\Desktop\AGL\AGL-Test\AGL-Test\obj\Debug\AGL-Test.csprojResolveAssemblyReference.cache
+C:\Users\chabdjianr\Desktop\AGL\AGL-Test\AGL-Test\obj\Debug\AGL-Test.csproj.CoreCompileInputs.cache
+C:\Users\chabdjianr\Desktop\AGL\AGL-Test\AGL-Test\obj\Debug\AGL-Test.exe
+C:\Users\chabdjianr\Desktop\AGL\AGL-Test\AGL-Test\obj\Debug\AGL-Test.pdb
